@@ -22,8 +22,8 @@ The purpose of the website is to increase the amount of business that Keesy Driv
 
 ## Functionality / Features
 
-<!-- <details>
-    <summary>Click here to expand</summary> -->
+<details>
+    <summary>Click here to expand</summary>
 
 On top of the default features included with the static website we will include several new features.
 
@@ -53,7 +53,7 @@ On top of the default features included with the static website we will include 
 
 - **Modify zone of influence(area in which Keesy Driving School will operate)**
 
-<!-- </details> -->
+</details>
 
 ---
 
@@ -65,9 +65,8 @@ The target audience of the site is and will continue to be teenagers looking to 
 
 ## Tech stack
 
-<!-- <details>
+<details>
     <summary>Click here to expand</summary>
- -->
 
 **Frontend:**
 
@@ -118,35 +117,45 @@ The target audience of the site is and will continue to be teenagers looking to 
 
 - jest
 
-<!--   </details>   -->
+  </details>
 
 ---
 
 ## User Stories with Implementation of Agile methodology
 
-<!-- <details>
-    <summary>Click here to expand</summary> -->
+<details>
+    <summary>Click here to expand</summary>
 
-<span style="color:blue">Persona: Craig / Student / 16 </span>
-<span style="color:purple">Persona: Stephanie / Mother / 39.5 </span>
-<span style="color:red">Persona: Jeff/ No Licence + Tradesmen / 25 </span>
-<span style="color:orange"> Persona: Keesy / Business Owner / ... </span>
+<span style="color:blue">**Persona:** Craig / Student / 16 </span>
+<span style="color:purple">**Persona:** Stephanie / Mother / 39.5 </span>
+<span style="color:red">**Persona:** Jeff/ No Licence + Tradesmen / 25 </span>
+<span style="color:orange">**Persona:** Keesy / Business Owner / ... </span>
 
-<span style="color:purple">1. As Stephanie, I want to find out how I can contact the business, so I can organize an appointment. </span>
-<span style="color:blue">2. As Craig, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span>
-<span style="color:red">3. As Jeff, I want to know if I can decide between manual or automatic transmission, I wish to drive manual. </span>
-<span style="color:orange">4. As Keesy, I want to be able to change prices on my site, so I can update prices throughout the year/ over many years.</span>
-<span style="color:blue">5. As Craig I am a poor student, I want to see the cost of employing the driving schools services. So I can decide whether I can afford it.</span>
-<span style="color:red">6. As Jeff, I want to find out if I can employ this service during non working hours (9am-5pm), so I can continue to work throughout the day.</span>
-<span style="color:purple">7. As Stephanie, I want to know if I can buy in bulk (lessons), so I can give my child a present.</span>
-<span style="color:purple">8. As Craig, I want to find out how I can contact the business, so I can organize an appointment. </span>
-<span style="color:purple">9. As Jeff, I want to find out how I can contact the business, so I can organize an appointment. </span>
-<span style="color:blue">10. As Stephanie, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span>
-<span style="color:blue">11. As Jeff, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span>
-<span style="color:orange">12. As Keesy, I want my contact info to be avaliable at all times, so I will receive more business.
+<span style="color:purple">**1.** As Stephanie, I want to find out how I can contact the business, so I can organize an appointment. </span>
 
-<!-- </details>
- -->
+<span style="color:blue">**2.** As Craig, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span>
+
+<span style="color:red">**3.** As Jeff, I want to know if I can decide between manual or automatic transmission, I wish to drive manual. </span>
+
+<span style="color:orange">**4.** As Keesy, I want to be able to change prices on my site, so I can update prices throughout the year/ over many years.</span>
+
+<span style="color:blue">**5.** As Craig I am a poor student, I want to see the cost of employing the driving schools services. So I can decide whether I can afford it.</span>
+
+<span style="color:red">**6.** As Jeff, I want to find out if I can employ this service during non working hours (9am-5pm), so I can continue to work throughout the day.</span>
+
+<span style="color:purple">**7.** As Stephanie, I want to know if I can buy in bulk (lessons), so I can give my child a present.</span>
+
+<span style="color:purple">**8.** As Craig, I want to find out how I can contact the business, so I can organize an appointment. </span>
+
+<span style="color:purple">**9.** As Jeff, I want to find out how I can contact the business, so I can organize an appointment. </span>
+
+<span style="color:blue">**10.** As Stephanie, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span>
+
+<span style="color:blue">**11.** As Jeff, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span>
+
+<span style="color:orange">**12.** As Keesy, I want my contact info to be avaliable at all times, so I will receive more business.
+
+</details>
 
 ---
 
@@ -154,38 +163,37 @@ The target audience of the site is and will continue to be teenagers looking to 
 
 ## Data Flow Diagram
 
-<!-- <details>
-    <summary>Click here to expand</summary> -->
+<details>
+    <summary>Click here to expand</summary>
 
 will add dfd here
 
-<!--  </details>  -->
+ </details>
 
 ---
 
 ## Application Architecture Diagram
 
-<!-- <details>
-    <summary>Click here to expand</summary> -->
+<details>
+    <summary>Click here to expand</summary>
 
 will add aad here
 
-<!--  </details>  -->
+ </details>
 
 ---
 
 ## Sitemap
 
-<!-- <details>
+<details>
     <summary>Click here to expand</summary>
- -->
 
 | User          | Authentication status | Sitemap |
 | ------------- | --------------------- | ------- |
 | As a consumer | Not logged in         |         |
 | As a Owner    | logged in             |         |
 
-<!-- </details> -->
+</details>
 
 ---
 
@@ -193,8 +201,8 @@ will add aad here
 
 ### Wireframes: Version 1
 
-<!-- <details>
-    <summary>Click here to expand</summary> -->
+<details>
+    <summary>Click here to expand</summary>
 
 | Different pages       | Desktop                              | Tablet                               | Mobile Phone                         |
 | --------------------- | ------------------------------------ | ------------------------------------ | ------------------------------------ |
@@ -209,12 +217,12 @@ will add aad here
 | Start learning        |                                      |                                      |                                      |
 | COVID safety guidence |                                      |                                      |                                      |
 
-<!-- </details> -->
+</details>
 
 ### Wireframes: Prototype
 
-<!-- <details>
-    <summary>Click here to expand</summary> -->
+<details>
+    <summary>Click here to expand</summary>
 
 | Different Screens | Prototyped Wireframes |
 | ----------------- | --------------------- |
@@ -222,29 +230,28 @@ will add aad here
 | Tablet            |                       |
 | Mobile phone      |                       |
 
-<!-- </details>
- -->
+</details>
 
 ---
 
 ## Third party services
 
-<!-- <details>
+<details>
     <summary>Click here to expand</summary>
-     -->
+
 
 ### Heroku
 
 ( small description about heroku, why use it)
 
-<!-- </details> -->
+</details>
 
 ---
 
 ## Planning methodology
 
-<!-- <details>
-    <summary>Click here to expand</summary> -->
+<details>
+    <summary>Click here to expand</summary>
 
 [ Link to Trello](https://trello.com/b/hBRx8eK4/t3a2-a-mern-full-stack-apppart-a)
 
@@ -262,7 +269,7 @@ Screen shots throughout the **Development of Planning**
 |        | Day 2 |                                      |
 |        | Day 3 |                                      |
 
-<!-- </details> -->
+</details>
 
 ---
 
