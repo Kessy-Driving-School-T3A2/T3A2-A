@@ -99,17 +99,18 @@ The target audience of the site is and will continue to be teenagers looking to 
 - VS code
   -- as text editor
 - Git
+
 - Github
+
 - Lucid chart
   -- create site map
--
-
--- create Dataflow diagram
 
 - Trello
   -- tracking development of website
+
 - Figma
   -- create wireframes version 1
+
 - Figma
   -- create wireframes prototype
 
