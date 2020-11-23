@@ -239,7 +239,6 @@ will add aad here
 <details>
     <summary>Click here to expand</summary>
 
-
 ### Heroku
 
 ( small description about heroku, why use it)
@@ -277,6 +276,9 @@ Screen shots throughout the **Development of Planning**
 
 ### Automated Test | Jest: Unit Test
 
+<details>
+    <summary>Click here to expand</summary>
+
 - An Opensource Project maintained by **Facebook**
 
 - A **Javascript Library** to
@@ -295,7 +297,12 @@ Screen shots throughout the **Development of Planning**
 
 - Time saver
 
+</details>
+
 ### Manual Test | Bug Fixing
+
+<details>
+    <summary>Click here to expand</summary>
 
 **Reason for choosing Manual test**
 
@@ -311,9 +318,12 @@ Screen shots throughout the **Development of Planning**
 
 - Introduce a level of empathy
 
----
+</details>
 
 ## Possible Challanges Of Planning During Development Process
+
+<details>
+    <summary>Click here to expand</summary>
 
 #### Possible challanges
 
@@ -328,6 +338,8 @@ During the actual implimentation of this planning, we might need to change certa
 - Providing the details information about any featurs implimentaton. **how client want's it to be done** vs **how it will look after being done**, and change the plan if required
 
 - Weekly meeting with our **Client** for through discussion about **what our Client needs** and **what can be done** in the **provided time period**
+
+</details>
 
 ---
 
