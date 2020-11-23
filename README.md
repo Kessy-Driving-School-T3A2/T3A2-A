@@ -344,19 +344,3 @@ During the actual implimentation of this planning, we might need to change certa
 ---
 
 ---
-
-```
- Links to other Websites (will remove later)
-
-* https://www.pattosdrivingschool.com.au/?fbclid=IwAR0Ta4PKG5WeoUokRUed6PTVOJ5QzCms1P3IGN-xebZI65d-H3_vAElovnU
-
-* http://dlsdrivingschool.com.au/
-
-* https://www.drivereducationservices.com.au/?fbclid=IwAR3cfV532iTtbfTTKWOaxAzeCgADGb0-Vsp0vtGzd9C-QpWWBXInNA79aog
-
-* https://www.vipdrivingschool.com.au/
-
-* http://www.strive2drive.com.au/
-
-* https://www.yahoodrivingschool.com.au/
-```
