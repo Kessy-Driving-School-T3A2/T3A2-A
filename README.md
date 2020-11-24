@@ -86,7 +86,7 @@ The target audience of the site is and will continue to be teenagers looking to 
 
 **Deployment**
 
-- Heroku
+- Heroku / Netlify
 
 **Utilities**
 
@@ -239,9 +239,9 @@ will add aad here
 <details>
     <summary>Click here to expand</summary>
 
-### Heroku
+### Heroku / Netlify
 
-( small description about heroku, why use it)
+( small description , why use it)
 
 </details>
 
@@ -259,7 +259,7 @@ Screen shots throughout the **Development of Planning**
 | Weeks  | Days  | Screen shots                         |
 | ------ | ----- | ------------------------------------ |
 | Week 1 | Day 1 | ![](https://i.imgur.com/J0JOtaq.jpg) |
-|        | Day 2 |                                      |
+|        | Day 2 | ![](https://i.imgur.com/oEhzC0G.png) |
 |        | Day 3 |                                      |
 | Week 2 | Day 1 |                                      |
 |        | Day 2 |                                      |
