@@ -166,7 +166,7 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
-  ![](./assets/DataFlowDiagram.png)
+![](./assets/DataFlowDiagram.png)
 
  </details>
 
@@ -204,15 +204,15 @@ will add aad here
 <details>
     <summary>Click here to expand</summary>
 
-| Different pages       | Desktop                              | Tablet                               | Mobile Phone                         |
-| --------------------- | ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| Home                  | ![](https://i.imgur.com/2zKEyfc.png) | ![](https://i.imgur.com/j46820l.png) |  ![](https://i.imgur.com/A2wglcK.png) |
-| About Us              | ![](https://i.imgur.com/XciYJzr.png) | ![](https://i.imgur.com/K7bIzKe.png) |  ![](https://i.imgur.com/bbPOFMO.png) |
-| Packages              | ![](https://i.imgur.com/VT2SJ7H.png) | ![](https://i.imgur.com/m2jEIzV.png) |  ![](./assets/Prices&PackagesPhone.png)
-| Contact Us            | ![](./assets/ContactUsDesktop.png)   | ![](./assets/ContactUsTablet.png)    |  ![](./assets/ContactUsPhone.png)
-| FAQ                   | ![](./assets/FAQDesktop.png)         | ![](./assets/FAQTablet.png)          |  ![](./assets/FAQPhone.png)         |
-| Review                | ![](./assets/ReviewDesktop.png)      | ![](./assets/ReviewTablet.png)       |  ![](./assets/ReviewPhone.png)         |
-| Admin                 | ![](./assets/AdminLoginDesktop.png)  |  ![](./assets/AdminLoginTablet.png)  |  ![](./assets/AdminLoginPhone.png)    |
+| Different pages | Desktop                              | Tablet                               | Mobile Phone                           |
+| --------------- | ------------------------------------ | ------------------------------------ | -------------------------------------- |
+| Home            | ![](https://i.imgur.com/2zKEyfc.png) | ![](https://i.imgur.com/j46820l.png) | ![](https://i.imgur.com/A2wglcK.png)   |
+| About Us        | ![](https://i.imgur.com/XciYJzr.png) | ![](https://i.imgur.com/K7bIzKe.png) | ![](https://i.imgur.com/bbPOFMO.png)   |
+| Packages        | ![](https://i.imgur.com/VT2SJ7H.png) | ![](https://i.imgur.com/m2jEIzV.png) | ![](./assets/Prices&PackagesPhone.png) |
+| Contact Us      | ![](./assets/ContactUsDesktop.png)   | ![](./assets/ContactUsTablet.png)    | ![](./assets/ContactUsPhone.png)       |
+| FAQ             | ![](./assets/FAQDesktop.png)         | ![](./assets/FAQTablet.png)          | ![](./assets/FAQPhone.png)             |
+| Review          | ![](./assets/ReviewDesktop.png)      | ![](./assets/ReviewTablet.png)       | ![](./assets/ReviewPhone.png)          |
+| Admin           | ![](./assets/AdminLoginDesktop.png)  | ![](./assets/AdminLoginTablet.png)   | ![](./assets/AdminLoginPhone.png)      |
 
 </details>
 
@@ -221,11 +221,11 @@ will add aad here
 <details>
     <summary>Click here to expand</summary>
 
-| Different Screens | Prototyped Wireframes |
-| ----------------- | --------------------- |
-| Desktop           |                       |
-| Tablet            |                       |
-| Mobile phone      |                       |
+| Different Screens | Prototyped Wireframes                | GIF                                  |
+| ----------------- | ------------------------------------ | ------------------------------------ |
+| Desktop           | ![](https://i.imgur.com/1QULHx3.png) | ![](https://i.imgur.com/eBRdYSi.gif) |
+| Tablet            |                                      |                                      |
+| Mobile phone      |                                      |                                      |
 
 </details>
 
