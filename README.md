@@ -126,10 +126,10 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
-<span style="color:blue">**Persona:** Craig / Student / 16 </span>
-<span style="color:purple">**Persona:** Stephanie / Mother / 39.5 </span>
-<span style="color:red">**Persona:** Jeff/ No Licence + Tradesmen / 25 </span>
-<span style="color:orange">**Persona:** Keesy / Business Owner / ... </span>
+<span style="color:blue">**Persona:** Craig / Student / 16 </span></br>
+<span style="color:purple">**Persona:** Stephanie / Mother / 39.5 </span></br>
+<span style="color:red">**Persona:** Jeff/ No Licence + Tradesmen / 25 </span></br>
+<span style="color:orange">**Persona:** Keesy / Business Owner / ... </span></br>
 
 <span style="color:purple">**1.** As Stephanie, I want to find out how I can contact the business, so I can organize an appointment. </span></br>
 
