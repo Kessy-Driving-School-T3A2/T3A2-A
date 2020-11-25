@@ -131,29 +131,29 @@ The target audience of the site is and will continue to be teenagers looking to 
 <span style="color:red">**Persona:** Jeff/ No Licence + Tradesmen / 25 </span>
 <span style="color:orange">**Persona:** Keesy / Business Owner / ... </span>
 
-<span style="color:purple">**1.** As Stephanie, I want to find out how I can contact the business, so I can organize an appointment. </span>
+<span style="color:purple">**1.** As Stephanie, I want to find out how I can contact the business, so I can organize an appointment. </span></br>
 
-<span style="color:blue">**2.** As Craig, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span>
+<span style="color:blue">**2.** As Craig, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span></br>
 
-<span style="color:red">**3.** As Jeff, I want to know if I can decide between manual or automatic transmission, I wish to drive manual. </span>
+<span style="color:red">**3.** As Jeff, I want to know if I can decide between manual or automatic transmission, I wish to drive manual. </span></br>
 
-<span style="color:orange">**4.** As Keesy, I want to be able to change prices on my site, so I can update prices throughout the year/ over many years.</span>
+<span style="color:orange">**4.** As Keesy, I want to be able to change prices on my site, so I can update prices throughout the year/ over many years.</span></br>
 
-<span style="color:blue">**5.** As Craig I am a poor student, I want to see the cost of employing the driving schools services. So I can decide whether I can afford it.</span>
+<span style="color:blue">**5.** As Craig I am a poor student, I want to see the cost of employing the driving schools services. So I can decide whether I can afford it.</span></br>
 
-<span style="color:red">**6.** As Jeff, I want to find out if I can employ this service during non working hours (9am-5pm), so I can continue to work throughout the day.</span>
+<span style="color:red">**6.** As Jeff, I want to find out if I can employ this service during non working hours (9am-5pm), so I can continue to work throughout the day.</span></br>
 
-<span style="color:purple">**7.** As Stephanie, I want to know if I can buy in bulk (lessons), so I can give my child a present.</span>
+<span style="color:purple">**7.** As Stephanie, I want to know if I can buy in bulk (lessons), so I can give my child a present.</span></br>
 
-<span style="color:purple">**8.** As Craig, I want to find out how I can contact the business, so I can organize an appointment. </span>
+<span style="color:purple">**8.** As Craig, I want to find out how I can contact the business, so I can organize an appointment. </span></br>
 
-<span style="color:purple">**9.** As Jeff, I want to find out how I can contact the business, so I can organize an appointment. </span>
+<span style="color:purple">**9.** As Jeff, I want to find out how I can contact the business, so I can organize an appointment. </span></br>
 
-<span style="color:blue">**10.** As Stephanie, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span>
+<span style="color:blue">**10.** As Stephanie, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span></br>
 
-<span style="color:blue">**11.** As Jeff, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span>
+<span style="color:blue">**11.** As Jeff, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span></br>
 
-<span style="color:orange">**12.** As Keesy, I want my contact info to be avaliable at all times, so I will receive more business.
+<span style="color:orange">**12.** As Keesy, I want my contact info to be avaliable at all times, so I will receive more business.</span></br>
 
 </details>
 
@@ -166,7 +166,7 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
-will add dfd here
+  ![](./assets/DataFlowDiagram.png)
 
  </details>
 
@@ -206,16 +206,13 @@ will add aad here
 
 | Different pages       | Desktop                              | Tablet                               | Mobile Phone                         |
 | --------------------- | ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| Home                  | ![](https://i.imgur.com/2zKEyfc.png) | ![](https://i.imgur.com/j46820l.png) | ![](https://i.imgur.com/A2wglcK.png) |
-| About Us              | ![](https://i.imgur.com/XciYJzr.png) | ![](https://i.imgur.com/K7bIzKe.png) | ![](https://i.imgur.com/bbPOFMO.png) |
-| Packages              | ![](https://i.imgur.com/VT2SJ7H.png) | ![](https://i.imgur.com/m2jEIzV.png) |                                      |
-| Contact Us            |                                      |                                      |                                      |
-| Our Offers            |                                      |                                      |                                      |
-| About instructor      |                                      |                                      |                                      |
-| Location map          |                                      |                                      |                                      |
-| Area                  |                                      |                                      |                                      |
-| Start learning        |                                      |                                      |                                      |
-| COVID safety guidence |                                      |                                      |                                      |
+| Home                  | ![](https://i.imgur.com/2zKEyfc.png) | ![](https://i.imgur.com/j46820l.png) |  ![](https://i.imgur.com/A2wglcK.png) |
+| About Us              | ![](https://i.imgur.com/XciYJzr.png) | ![](https://i.imgur.com/K7bIzKe.png) |  ![](https://i.imgur.com/bbPOFMO.png) |
+| Packages              | ![](https://i.imgur.com/VT2SJ7H.png) | ![](https://i.imgur.com/m2jEIzV.png) |  ![](./assets/Prices&PackagesPhone.png)
+| Contact Us            | ![](./assets/ContactUsDesktop.png)   | ![](./assets/ContactUsTablet.png)    |  ![](./assets/ContactUsPhone.png)
+| FAQ                   | ![](./assets/FAQDesktop.png)         | ![](./assets/FAQTablet.png)          |  ![](./assets/FAQPhone.png)         |
+| Review                | ![](./assets/ReviewDesktop.png)      | ![](./assets/ReviewTablet.png)       |  ![](./assets/ReviewPhone.png)         |
+| Admin                 | ![](./assets/AdminLoginDesktop.png)  |  ![](./assets/AdminLoginTablet.png)  |  ![](./assets/AdminLoginPhone.png)    |
 
 </details>
 
