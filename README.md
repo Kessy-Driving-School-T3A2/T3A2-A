@@ -257,7 +257,7 @@ Screen shots throughout the **Development of Planning**
 | ------ | ----- | ------------------------------------ |
 | Week 1 | Day 1 | ![](https://i.imgur.com/J0JOtaq.jpg) |
 |        | Day 2 | ![](https://i.imgur.com/oEhzC0G.png) |
-|        | Day 3 |                                      |
+|        | Day 3 | ![](https://i.imgur.com/3t99wcw.png) |  |
 | Week 2 | Day 1 |                                      |
 |        | Day 2 |                                      |
 |        | Day 3 |                                      |
