@@ -178,6 +178,7 @@ The target audience of the site is and will continue to be teenagers looking to 
     <summary>Click here to expand</summary>
 
 will add aad here
+![](./assets/T3A2-A-AAD.png)
 
  </details>
 
