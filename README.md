@@ -183,21 +183,6 @@ will add aad here
  </details>
 
 ---
-
-## Sitemap
-
-<details>
-    <summary>Click here to expand</summary>
-
-| User          | Authentication status | Sitemap |
-| ------------- | --------------------- | ------- |
-| As a consumer | Not logged in         |         |
-| As a Owner    | logged in             |         |
-
-</details>
-
----
-
 ## Wireframes showing Agile methodology Implementation
 
 ### Wireframes: Version 1
