@@ -212,7 +212,7 @@ will add aad here
 | ----------------- | ------------------------------------ |
 | Desktop           | ![](https://i.imgur.com/1QULHx3.png) |
 | Tablet            |                                      |
-| Mobile phone      | ![](https://i.imgur.com/ar0G9W3.png) |
+| Mobile phone      | ![](https://i.imgur.com/ulfhX7c.png) |
 
 </details>
 
