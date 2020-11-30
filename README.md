@@ -183,6 +183,7 @@ will add aad here
  </details>
 
 ---
+
 ## Wireframes showing Agile methodology Implementation
 
 ### Wireframes: Version 1
@@ -207,11 +208,11 @@ will add aad here
 <details>
     <summary>Click here to expand</summary>
 
-| Different Screens | Prototyped Wireframes                | GIF                                  |
-| ----------------- | ------------------------------------ | ------------------------------------ |
-| Desktop           | ![](https://i.imgur.com/1QULHx3.png) | ![](https://i.imgur.com/eBRdYSi.gif) |
-| Tablet            |                                      |                                      |
-| Mobile phone      |                                      |                                      |
+| Different Screens | Prototyped Wireframes                |
+| ----------------- | ------------------------------------ |
+| Desktop           | ![](https://i.imgur.com/1QULHx3.png) |
+| Tablet            |                                      |
+| Mobile phone      | ![](https://i.imgur.com/ar0G9W3.png) |
 
 </details>
 
@@ -243,8 +244,8 @@ Screen shots throughout the **Development of Planning**
 | ------ | ----- | ------------------------------------ |
 | Week 1 | Day 1 | ![](https://i.imgur.com/J0JOtaq.jpg) |
 |        | Day 2 | ![](https://i.imgur.com/oEhzC0G.png) |
-|        | Day 3 | ![](https://i.imgur.com/3t99wcw.png) |  |
-| Week 2 | Day 1 |                                      |
+|        | Day 3 | ![](https://i.imgur.com/3t99wcw.png) |
+| Week 2 | Day 1 | ![](https://i.imgur.com/0Gm5eaP.jpg) |
 |        | Day 2 |                                      |
 |        | Day 3 |                                      |
 | Week 3 | Day 1 |                                      |
