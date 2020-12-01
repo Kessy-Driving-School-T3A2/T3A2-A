@@ -198,7 +198,9 @@ The target audience of the site is and will continue to be teenagers looking to 
 | Contact Us      | ![](./assets/ContactUsDesktop.png)   | ![](./assets/ContactUsTablet.png)    | ![](./assets/ContactUsPhone.png)       |
 | FAQ             | ![](./assets/FAQDesktop.png)         | ![](./assets/FAQTablet.png)          | ![](./assets/FAQPhone.png)             |
 | Review          | ![](./assets/ReviewDesktop.png)      | ![](./assets/ReviewTablet.png)       | ![](./assets/ReviewPhone.png)          |
-| Admin           | ![](./assets/AdminLoginDesktop.png)  | ![](./assets/AdminLoginTablet.png)   | ![](./assets/AdminLoginPhone.png)      |
+| Admin Login           | ![](./assets/AdminLoginDesktop.png)  | ![](./assets/AdminLoginTablet.png)   | ![](./assets/AdminLoginPhone.png)      |
+| Admin FAQ       |  ![](./assets/AdminFAQDesktop.png)   | ![](./assets/AdminFAQTablet.png)     | ![](./assets/AdminFAQPhone.png)   |
+| Admin Prices    | ![](./assets/AdminPriceDesktop.png)  | ![](./assets/AdminPriceTablet.png)   | ![](./assets/AdminPricePhone.png)
 
 </details>
 
