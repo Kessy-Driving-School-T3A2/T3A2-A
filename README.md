@@ -126,34 +126,40 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
-<span style="color:blue">**Persona:** Craig / Student / 16 </span></br>
-<span style="color:purple">**Persona:** Stephanie / Mother / 39.5 </span></br>
-<span style="color:red">**Persona:** Jeff/ No Licence + Tradesmen / 25 </span></br>
-<span style="color:orange">**Persona:** Keesy / Business Owner / ... </span></br>
 
-<span style="color:purple">**1.** As Stephanie, I want to find out how I can contact the business, so I can organize an appointment. </span></br>
+<span style="color:blue">**Persona:** Craig / Student / 16/ <strong>User</strong> / Wants to be able to drive to school in Year 12/ wants to avoid phone calls if possible   </span><br>
+<span style="color:purple">**Persona:** <strong>Stephanie</strong>/ Mother / 39.5 / <strong>User</strong> / Wants child to get P's/ To Busy to teach themselves/ Child didnt appreciate her teaching/ Rich  </span><br>
+<span style="color:red">**Persona:** <strong>Jeff</strong>/ No Licence + Apprentice Tradesmen / 25 / <strong>User</strong> Bullied into driving manual by work colleges/ Camping enthusiast </span><br>
+<span style="color:orange">**Persona:** <strong>Keesy</strong> / <strong>Business Owner </strong>/ <strong>Admin</strong> / Wants a cool website </span><br>
 
-<span style="color:blue">**2.** As Craig, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span></br>
 
-<span style="color:red">**3.** As Jeff, I want to know if I can decide between manual or automatic transmission, I wish to drive manual. </span></br>
 
-<span style="color:orange">**4.** As Keesy, I want to be able to change prices on my site, so I can update prices throughout the year/ over many years.</span></br>
+<strong>Craig(User)</strong>:<br>
+<span style="color:blue">I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span></br>
+<span style="color:blue">I am a poor student, I want to see the cost of employing the driving schools services. So I can decide whether I can afford it.</span></br>
+<span style="color:blue">I want to find out how I can contact the business, so I can organize an appointment. </span></br>
+<del><span style="color:blue">As a millenial I want to contact via email, so I dont have to ring someone on the phone.</span></br></del>
+<span style="color:blue">As a young person I want to contact via email/ text, so I dont have to ring someone on the phone.</span></br>
 
-<span style="color:blue">**5.** As Craig I am a poor student, I want to see the cost of employing the driving schools services. So I can decide whether I can afford it.</span></br>
+<strong>Stephanie(User)</strong>:<br>
+<span style="color:purple">I want to find out how I can contact the business, so I can organize an appointment for my child. </span></br>
+<span style="color:purple">I want to know if I can buy in bulk (lessons), so I can give my child a present.</span></br>
+<span style="color:purple">I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span></br>
+<del><span style="color:purple">As a mother, I want to know ... <span></del></br>
 
-<span style="color:red">**6.** As Jeff, I want to find out if I can employ this service during non working hours (9am-5pm), so I can continue to work throughout the day.</span></br>
+<strong>Jeff(User)</strong>:<br>
+<span style="color:red">I want to know if I can decide between manual or automatic transmission, I wish to drive manual. </span></br>
+<span style="color:red">I want to find out if I can employ this service during non working hours (9am-5pm), so I can continue to work throughout the day.</span></br>
+<span style="color:red">I want to find out how I can contact the business, so I can organize an appointment. </span></br>
+<span style="color:red">I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span></br>
 
-<span style="color:purple">**7.** As Stephanie, I want to know if I can buy in bulk (lessons), so I can give my child a present.</span></br>
+<strong>Keesy(Admin)</strong>:<br>
+<span style="color:orange">I want to be able to change prices on my site, so I can update prices throughout the year/ over many years.</span></br>
+<span style="color:orange">I want my contact info to be avaliable at all times, so I will receive more business.</span></br>
+<span style="color:orange">I want the colors on the website to be black and orange. So they match up with the colors of my brand </span></br>
 
-<span style="color:purple">**8.** As Craig, I want to find out how I can contact the business, so I can organize an appointment. </span></br>
 
-<span style="color:purple">**9.** As Jeff, I want to find out how I can contact the business, so I can organize an appointment. </span></br>
 
-<span style="color:blue">**10.** As Stephanie, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span></br>
-
-<span style="color:blue">**11.** As Jeff, I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span></br>
-
-<span style="color:orange">**12.** As Keesy, I want my contact info to be avaliable at all times, so I will receive more business.</span></br>
 
 </details>
 
@@ -166,7 +172,9 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
-![](./assets/DataFlowDiagram.png)
+
+  ![](./assets/DFD2.png)
+
 
  </details>
 
@@ -177,8 +185,10 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
-will add aad here
-![](./assets/T3A2-A-AAD.png)
+
+  ![](./assets/T3A2-A-AAD.png)
+
+
 
  </details>
 
