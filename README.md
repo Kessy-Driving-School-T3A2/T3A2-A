@@ -136,7 +136,7 @@ The target audience of the site is and will continue to be teenagers looking to 
 <span style="color:blue">I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span></br>
 <span style="color:blue">I am a poor student, I want to see the cost of employing the driving schools services. So I can decide whether I can afford it.</span></br>
 <span style="color:blue">I want to find out how I can contact the business, so I can organize an appointment. </span></br>
-<del><span style="color:blue">As a millenial I want to contact via email, so I dont have to ring someone on the phone.</span></br><del>
+<del><span style="color:blue">As a millenial I want to contact via email, so I dont have to ring someone on the phone.</span></br></del>
 <span style="color:blue">As a young person I want to contact via email/ text, so I dont have to ring someone on the phone.</span></br>
 
 <strong>Stephanie(User)</strong>:<br>
@@ -170,7 +170,7 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
-  ![](./assets/DataFlowDiagram.png)
+  ![](./assets/DFD2.png)
 
  </details>
 
@@ -181,7 +181,7 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
-will add aad here
+  ![](./assets/T3A2-A-AAD.png)
 
  </details>
 
