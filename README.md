@@ -126,10 +126,12 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
+
 <span style="color:blue">**Persona:** Craig / Student / 16/ <strong>User</strong> / Wants to be able to drive to school in Year 12/ wants to avoid phone calls if possible   </span><br>
 <span style="color:purple">**Persona:** <strong>Stephanie</strong>/ Mother / 39.5 / <strong>User</strong> / Wants child to get P's/ To Busy to teach themselves/ Child didnt appreciate her teaching/ Rich  </span><br>
 <span style="color:red">**Persona:** <strong>Jeff</strong>/ No Licence + Apprentice Tradesmen / 25 / <strong>User</strong> Bullied into driving manual by work colleges/ Camping enthusiast </span><br>
 <span style="color:orange">**Persona:** <strong>Keesy</strong> / <strong>Business Owner </strong>/ <strong>Admin</strong> / Wants a cool website </span><br>
+
 
 
 <strong>Craig(User)</strong>:<br>
@@ -170,7 +172,9 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
+
   ![](./assets/DFD2.png)
+
 
  </details>
 
@@ -181,23 +185,12 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
+
   ![](./assets/T3A2-A-AAD.png)
 
+
+
  </details>
-
----
-
-## Sitemap
-
-<details>
-    <summary>Click here to expand</summary>
-
-| User          | Authentication status | Sitemap |
-| ------------- | --------------------- | ------- |
-| As a consumer | Not logged in         |         |
-| As a Owner    | logged in             |         |
-
-</details>
 
 ---
 
@@ -208,15 +201,15 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
-| Different pages       | Desktop                              | Tablet                               | Mobile Phone                         |
-| --------------------- | ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| Home                  | ![](https://i.imgur.com/2zKEyfc.png) | ![](https://i.imgur.com/j46820l.png) |  ![](https://i.imgur.com/A2wglcK.png) |
-| About Us              | ![](https://i.imgur.com/XciYJzr.png) | ![](https://i.imgur.com/K7bIzKe.png) |  ![](https://i.imgur.com/bbPOFMO.png) |
-| Packages              | ![](https://i.imgur.com/VT2SJ7H.png) | ![](https://i.imgur.com/m2jEIzV.png) |  ![](./assets/Prices&PackagesPhone.png)
-| Contact Us            | ![](./assets/ContactUsDesktop.png)   | ![](./assets/ContactUsTablet.png)    |  ![](./assets/ContactUsPhone.png)
-| FAQ                   | ![](./assets/FAQDesktop.png)         | ![](./assets/FAQTablet.png)          |  ![](./assets/FAQPhone.png)         |
-| Review                | ![](./assets/ReviewDesktop.png)      | ![](./assets/ReviewTablet.png)       |  ![](./assets/ReviewPhone.png)         |
-| Admin                 | ![](./assets/AdminLoginDesktop.png)  |  ![](./assets/AdminLoginTablet.png)  |  ![](./assets/AdminLoginPhone.png)    |
+| Different pages | Desktop                              | Tablet                               | Mobile Phone                           |
+| --------------- | ------------------------------------ | ------------------------------------ | -------------------------------------- |
+| Home            | ![](https://i.imgur.com/2zKEyfc.png) | ![](https://i.imgur.com/j46820l.png) | ![](https://i.imgur.com/A2wglcK.png)   |
+| About Us        | ![](https://i.imgur.com/XciYJzr.png) | ![](https://i.imgur.com/K7bIzKe.png) | ![](https://i.imgur.com/bbPOFMO.png)   |
+| Packages        | ![](https://i.imgur.com/VT2SJ7H.png) | ![](https://i.imgur.com/m2jEIzV.png) | ![](./assets/Prices&PackagesPhone.png) |
+| Contact Us      | ![](./assets/ContactUsDesktop.png)   | ![](./assets/ContactUsTablet.png)    | ![](./assets/ContactUsPhone.png)       |
+| FAQ             | ![](./assets/FAQDesktop.png)         | ![](./assets/FAQTablet.png)          | ![](./assets/FAQPhone.png)             |
+| Review          | ![](./assets/ReviewDesktop.png)      | ![](./assets/ReviewTablet.png)       | ![](./assets/ReviewPhone.png)          |
+| Admin           | ![](./assets/AdminLoginDesktop.png)  | ![](./assets/AdminLoginTablet.png)   | ![](./assets/AdminLoginPhone.png)      |
 
 </details>
 
@@ -225,11 +218,11 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
-| Different Screens | Prototyped Wireframes |
-| ----------------- | --------------------- |
-| Desktop           |                       |
-| Tablet            |                       |
-| Mobile phone      |                       |
+| Different Screens | Prototyped Wireframes                |
+| ----------------- | ------------------------------------ |
+| Desktop           | ![](https://i.imgur.com/1QULHx3.png) |
+| Tablet            |                                      |
+| Mobile phone      | ![](https://i.imgur.com/ulfhX7c.png) |
 
 </details>
 
@@ -261,8 +254,8 @@ Screen shots throughout the **Development of Planning**
 | ------ | ----- | ------------------------------------ |
 | Week 1 | Day 1 | ![](https://i.imgur.com/J0JOtaq.jpg) |
 |        | Day 2 | ![](https://i.imgur.com/oEhzC0G.png) |
-|        | Day 3 |                                      |
-| Week 2 | Day 1 |                                      |
+|        | Day 3 | ![](https://i.imgur.com/3t99wcw.png) |
+| Week 2 | Day 1 | ![](https://i.imgur.com/0Gm5eaP.jpg) |
 |        | Day 2 |                                      |
 |        | Day 3 |                                      |
 | Week 3 | Day 1 |                                      |
