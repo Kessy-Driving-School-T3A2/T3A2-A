@@ -126,13 +126,10 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
-
-<span style="color:blue">**Persona:** Craig / Student / 16/ <strong>User</strong> / Wants to be able to drive to school in Year 12/ wants to avoid phone calls if possible   </span><br>
-<span style="color:purple">**Persona:** <strong>Stephanie</strong>/ Mother / 39.5 / <strong>User</strong> / Wants child to get P's/ To Busy to teach themselves/ Child didnt appreciate her teaching/ Rich  </span><br>
+<span style="color:blue">**Persona:** Craig / Student / 16/ <strong>User</strong> / Wants to be able to drive to school in Year 12/ wants to avoid phone calls if possible </span><br>
+<span style="color:purple">**Persona:** <strong>Stephanie</strong>/ Mother / 39.5 / <strong>User</strong> / Wants child to get P's/ To Busy to teach themselves/ Child didnt appreciate her teaching/ Rich </span><br>
 <span style="color:red">**Persona:** <strong>Jeff</strong>/ No Licence + Apprentice Tradesmen / 25 / <strong>User</strong> Bullied into driving manual by work colleges/ Camping enthusiast </span><br>
 <span style="color:orange">**Persona:** <strong>Keesy</strong> / <strong>Business Owner </strong>/ <strong>Admin</strong> / Wants a cool website </span><br>
-
-
 
 <strong>Craig(User)</strong>:<br>
 <span style="color:blue">I want to see how far the business is willing to travel for work. So I can know if I live close enough. </span></br>
@@ -158,9 +155,6 @@ The target audience of the site is and will continue to be teenagers looking to 
 <span style="color:orange">I want my contact info to be avaliable at all times, so I will receive more business.</span></br>
 <span style="color:orange">I want the colors on the website to be black and orange. So they match up with the colors of my brand </span></br>
 
-
-
-
 </details>
 
 ---
@@ -172,9 +166,7 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
-
-  ![](./assets/DFD2.png)
-
+![](./assets/DFD2.png)
 
  </details>
 
@@ -185,10 +177,7 @@ The target audience of the site is and will continue to be teenagers looking to 
 <details>
     <summary>Click here to expand</summary>
 
-
-  ![](./assets/T3A2-A-AAD.png)
-
-
+![](./assets/T3A2-A-AAD.png)
 
  </details>
 
@@ -221,7 +210,7 @@ The target audience of the site is and will continue to be teenagers looking to 
 | Different Screens | Prototyped Wireframes                |
 | ----------------- | ------------------------------------ |
 | Desktop           | ![](https://i.imgur.com/1QULHx3.png) |
-| Tablet            |                                      |
+| Tablet            | ![](https://i.imgur.com/zpmQ3at.png) |
 | Mobile phone      | ![](https://i.imgur.com/ulfhX7c.png) |
 
 </details>
