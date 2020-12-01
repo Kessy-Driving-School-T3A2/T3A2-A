@@ -209,7 +209,7 @@ The target audience of the site is and will continue to be teenagers looking to 
 
 | Different Screens | Prototyped Wireframes                | Link to Prototype                                                                                                   |
 | ----------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| Desktop           | ![](https://i.imgur.com/1QULHx3.png) | [Figma](https://www.figma.com/proto/hbxYaFEWkXtHkCarxxh9He/T3A2-Wireframes?node-id=92%3A7&scaling=scale-down-width) |
+| Desktop           | ![](https://i.imgur.com/jsrTO8C.png) | [Figma](https://www.figma.com/proto/hbxYaFEWkXtHkCarxxh9He/T3A2-Wireframes?node-id=92%3A7&scaling=scale-down-width) |
 | Tablet            | ![](https://i.imgur.com/zpmQ3at.png) | [Figma](https://www.figma.com/proto/hbxYaFEWkXtHkCarxxh9He/T3A2-Wireframes?node-id=156%3A1774&scaling=scale-down)   |
 | Mobile phone      | ![](https://i.imgur.com/paM65Yf.png) | [Figma](https://www.figma.com/proto/hbxYaFEWkXtHkCarxxh9He/T3A2-Wireframes?node-id=109%3A967&scaling=scale-down)    |
 
