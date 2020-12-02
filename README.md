@@ -101,9 +101,6 @@ The target audience of the site is and will continue to be teenagers looking to 
 
 - Github
 
-- Lucid chart
-  -- create site map
-
 - Trello
   -- tracking development of website
 
@@ -198,9 +195,9 @@ The target audience of the site is and will continue to be teenagers looking to 
 | Contact Us      | ![](./assets/ContactUsDesktop.png)   | ![](./assets/ContactUsTablet.png)    | ![](./assets/ContactUsPhone.png)       |
 | FAQ             | ![](./assets/FAQDesktop.png)         | ![](./assets/FAQTablet.png)          | ![](./assets/FAQPhone.png)             |
 | Review          | ![](./assets/ReviewDesktop.png)      | ![](./assets/ReviewTablet.png)       | ![](./assets/ReviewPhone.png)          |
-| Admin Login           | ![](./assets/AdminLoginDesktop.png)  | ![](./assets/AdminLoginTablet.png)   | ![](./assets/AdminLoginPhone.png)      |
-| Admin FAQ       |  ![](./assets/AdminFAQDesktop.png)   | ![](./assets/AdminFAQTablet.png)     | ![](./assets/AdminFAQPhone.png)   |
-| Admin Prices    | ![](./assets/AdminPriceDesktop.png)  | ![](./assets/AdminPriceTablet.png)   | ![](./assets/AdminPricePhone.png)
+| Admin Login     | ![](./assets/AdminLoginDesktop.png)  | ![](./assets/AdminLoginTablet.png)   | ![](./assets/AdminLoginPhone.png)      |
+| Admin FAQ       | ![](./assets/AdminFAQDesktop.png)    | ![](./assets/AdminFAQTablet.png)     | ![](./assets/AdminFAQPhone.png)        |
+| Admin Prices    | ![](./assets/AdminPriceDesktop.png)  | ![](./assets/AdminPriceTablet.png)   | ![](./assets/AdminPricePhone.png)      |
 
 </details>
 
@@ -226,8 +223,6 @@ The target audience of the site is and will continue to be teenagers looking to 
 
 ### Heroku / Netlify
 
-( small description , why use it)
-
 </details>
 
 ---
@@ -248,7 +243,7 @@ Screen shots throughout the **Development of Planning**
 |        | Day 3 | ![](https://i.imgur.com/3t99wcw.png) |
 | Week 2 | Day 1 | ![](https://i.imgur.com/0Gm5eaP.jpg) |
 |        | Day 2 | ![](https://i.imgur.com/bT2gyHo.jpg) |
-|        | Day 3 |                                      |
+|        | Day 3 | ![](https://i.imgur.com/9nebsHO.jpg) |
 | Week 3 | Day 1 |                                      |
 |        | Day 2 |                                      |
 |        | Day 3 |                                      |
