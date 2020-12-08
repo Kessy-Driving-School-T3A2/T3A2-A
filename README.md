@@ -235,6 +235,7 @@ The target audience of the site is and will continue to be teenagers looking to 
 [ Link to Trello: Part-A](https://trello.com/invite/b/hBRx8eK4/b6879d4a3a712979efcad24491cfcf2c/t3a2-a-mern-full-stack-apppart-a)
 
 [Link to Trello: Part-B](https://trello.com/invite/b/IDtzWr3T/e3530227bd491d0df2d0a6dc87ad5e27/t3a2-b)
+
 Screen shots throughout the **Development of Planning**
 
 | Weeks  | Days      | Screen shots                         |
