@@ -236,17 +236,15 @@ The target audience of the site is and will continue to be teenagers looking to 
 
 Screen shots throughout the **Development of Planning**
 
-| Weeks  | Days  | Screen shots                         |
-| ------ | ----- | ------------------------------------ |
-| Week 1 | Day 1 | ![](https://i.imgur.com/J0JOtaq.jpg) |
-|        | Day 2 | ![](https://i.imgur.com/oEhzC0G.png) |
-|        | Day 3 | ![](https://i.imgur.com/3t99wcw.png) |
-| Week 2 | Day 1 | ![](https://i.imgur.com/0Gm5eaP.jpg) |
-|        | Day 2 | ![](https://i.imgur.com/bT2gyHo.jpg) |
-|        | Day 3 | ![](https://i.imgur.com/9nebsHO.jpg) |
-| Week 3 | Day 1 |                                      |
-|        | Day 2 |                                      |
-|        | Day 3 |                                      |
+| Weeks  | Days      | Screen shots                         |
+| ------ | --------- | ------------------------------------ |
+| Week 1 | Day 1     | ![](https://i.imgur.com/J0JOtaq.jpg) |
+|        | Day 2     | ![](https://i.imgur.com/oEhzC0G.png) |
+|        | Day 3     | ![](https://i.imgur.com/3t99wcw.png) |
+| Week 2 | Day 1     | ![](https://i.imgur.com/0Gm5eaP.jpg) |
+|        | Day 2     | ![](https://i.imgur.com/bT2gyHo.jpg) |
+|        | Day 3     | ![](https://i.imgur.com/9nebsHO.jpg) |
+| Week 3 | Day 1 - 3 | ![](https://i.imgur.com/a0L27yP.jpg) |
 
 </details>
 
